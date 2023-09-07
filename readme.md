@@ -66,7 +66,7 @@ export PATH=$PATH:$(go env GOPATH)/bin
     First, set the following environment variables:
 
     ```sh
-    export CHAIN_ID="dymension_100-1"
+    export CHAIN_ID="froopyland_100-1"
     export KEY_NAME="local-user"
     export MONIKER_NAME="local"
     ```
